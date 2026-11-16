@@ -1,6 +1,5 @@
 {
   "product": "Customized Odoo",
-  "release": "R63",
   "odoo": {
     "version": "20.0.20261024",
     "edition": "Community",
@@ -24,5 +23,6 @@
     "verified_files": 326,
     "path": "third_party/odoomates"
   },
-  "private_addons_repository": "https://github.com/mifsmart/odoo_mif_addons"
+  "private_addons_repository": "https://github.com/RealFarghaly/odoo_mif_addons",
+  "schema": 1
 }
